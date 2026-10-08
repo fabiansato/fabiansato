@@ -46,6 +46,8 @@ Una selección de repositorios públicos: herramientas, aplicaciones y experimen
 
 | Proyecto | Qué vas a encontrar | Tecnologías |
 | :--- | :--- | :--- |
+| [**MIMO-FE ↗**](https://github.com/fabiansato/Mimo-FE) | Biblioteca local de juegos con interfaz inspirada en consolas y aplicación de escritorio en beta. [Web del proyecto](https://github.com/fabiansato/Mimo-FE-web). | React · TypeScript · Tauri · Rust |
+| [**Kit Maestro / Tiendanube ↗**](https://github.com/fabiansato/kitmaestro-tiendanube) | Tema de tienda y herramientas de catálogo para videojuegos, tecnología y coleccionables. | Tiendanube · JavaScript · Node.js |
 | [**Lighthouse Reporting Tool ↗**](https://github.com/fabiansato/lighthouse-reporting-tool) | Auditorías de múltiples URLs con métricas de rendimiento, accesibilidad, buenas prácticas y SEO, exportadas a CSV. | JavaScript · Lighthouse · PageSpeed |
 | [**PageSpeed Insights Reporter ↗**](https://github.com/fabiansato/pagespeed-insights-reporter) | Reportes de rendimiento móvil y escritorio, con sugerencias de mejora para una lista de URLs. | Node.js · PageSpeed API · CSV |
 | [**CartaTienda Commerce ↗**](https://github.com/fabiansato/cartatienda-commerce) | Una aplicación de comercio con catálogo, carrito, armado de pedidos por WhatsApp y panel de administración. | React · TypeScript |
