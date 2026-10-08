@@ -2,10 +2,8 @@
 name: Deploy Jekyll with GitHub Pages dependencies preinstalled
 
 on:
-  # Runs on pushes targeting the default branch
-  push:
-    branches: ["master"]
-
+  # The profile README lives here; the portfolio deploys from fabiansato.github.io.
+  # Keep this historical site available only for an explicit manual deployment.
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 

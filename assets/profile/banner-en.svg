@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-labelledby="title desc">
+  <title id="title">Fabián Gonzalez · Sato</title>
+  <desc id="desc">Building for the web with craft and curiosity. A little capybara accompanies Sato's signature.</desc>
+  <rect width="1280" height="340" rx="20" fill="#142a2b"/>
+  <path d="M895 0h385v340H795z" fill="#193536"/>
+  <circle cx="1140" cy="110" r="185" fill="none" stroke="#33504d"/>
+  <circle cx="1140" cy="110" r="140" fill="none" stroke="#33504d"/>
+  <path d="M56 53h26" stroke="#d8e59b" stroke-width="3"/>
+  <text x="94" y="59" fill="#d8e59b" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="3">FABIÁN GONZALEZ / SATO</text>
+  <text x="54" y="139" fill="#f5f0e6" font-family="Georgia, 'Times New Roman', serif" font-size="57">Building for the web</text>
+  <text x="54" y="204" fill="#f5f0e6" font-family="Georgia, 'Times New Roman', serif" font-size="57">with craft and curiosity.</text>
+  <text x="57" y="282" fill="#c4d0c8" font-family="Arial, Helvetica, sans-serif" font-size="17" letter-spacing="1.5">AEM CLOUD · FULL STACK · ARGENTINA</text>
+  <g transform="translate(991 171)" fill="#d8e59b">
+    <path d="M17 62c0-30 20-51 55-51h19c17-15 48-13 58 7l14 4c10 2 17 11 17 23v20c0 12-8 20-20 20h-12v22h-19V89H59v18H40V84C25 83 17 76 17 62Z"/>
+    <ellipse cx="128" cy="17" rx="12" ry="14"/>
+    <ellipse cx="101" cy="18" rx="9" ry="12"/>
+    <circle cx="143" cy="43" r="3.5" fill="#142a2b"/>
+    <path d="M166 53h8M162 67h10" fill="none" stroke="#142a2b" stroke-width="3" stroke-linecap="round"/>
+    <path d="M1 115h186" fill="none" stroke="#789183" stroke-width="2"/>
+  </g>
+</svg>
